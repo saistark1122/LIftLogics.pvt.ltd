@@ -10,6 +10,16 @@ header {
     padding: 20px 0;
     text-align: center;
 }
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo img {
+    max-width: 100px;
+    margin-right: 20px;
+}
 nav {
     display: flex;
     justify-content: center;
