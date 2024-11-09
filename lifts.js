@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     setInterval(showNextImage, 3000);
 });
+
     // Apply the theme when the page loads
     window.onload = applyThemeBasedOnTime;
 
