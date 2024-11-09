@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
         slides.style.transform = `translateX(${-index * 100}%)`;
     }
 
-    setInterval(showNextImage, 3000);
+    setInterval(showNextImage, 9000);
 });
 
     // Apply the theme when the page loads
